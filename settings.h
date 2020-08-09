@@ -8,6 +8,9 @@
 // * P1 Meter RX pin
 #define P1_SERIAL_RX D2
 
+// * RESET PIN
+#define RESET_PIN D3
+
 // * Max telegram length
 #define P1_MAXLINELENGTH 64
 
